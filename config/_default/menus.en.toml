@@ -20,10 +20,6 @@
   pageRef = "about.md"
   weight = 20
 
-[[main]]
-  name = "Wordle"
-  pageRef = "wordle"
-  weight = 30
 
 [[main]]
   name = "Tags"
