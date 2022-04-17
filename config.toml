@@ -1,4 +1,4 @@
 theme = 'congo'
-baseURL = 'http://example.org/'
+baseURL = 'https://etsploit.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Etsplo.it Blog'

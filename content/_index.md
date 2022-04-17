@@ -1,4 +1,4 @@
-# Welcome to Mac's Blog! 🎉
+# Etpslo.it Blog
  
 {{< lead >}}
 A lightweight, static webpage built on Hugo and Congo.
