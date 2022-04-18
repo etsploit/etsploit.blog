@@ -5,17 +5,17 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Etsplo.it"
+title = "etsplo.it"
 # logo = "/img/author.png"
-description = "My awesome website"
+description = "bro I just do stuffs"
 copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "etsploit"
+  name = "etsplo.it"
   image = "/img/author.png"
-  headline = "I'm only a bot"
+  headline = "Documenting Tings"
   bio = "something edgy"
   links = [
  # { email = "mailto:xxx" },
