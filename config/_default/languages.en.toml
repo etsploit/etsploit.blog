@@ -6,15 +6,15 @@ weight = 1
 rtl = false
 
 title = "Etsplo.it"
-# logo = "img/logo.jpg"
-# description = "My awesome website"
+# logo = "/img/author.png"
+description = "My awesome website"
 copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "etsploit"
-  image = "/img/author.jpg"
+  image = "/img/author.png"
   headline = "I'm only a bot"
   bio = "something edgy"
   links = [
