@@ -14,11 +14,17 @@
   name = "Posts"
   pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "My Notes"
+  url = "https://notes.etsplo.it"
+  weight = 15
+
 [[main]]
   name = "About"
   pageRef = "about.md"
   weight = 20
-
+ 
 [[main]]
   name = "Categories"
   pageRef = "categories"
