@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on etsplo.it</title>
-    <link>https://etsploit.github.io/tags/</link>
+    <link>https://etsplo.it/tags/</link>
     <description>Recent content in Tags on etsplo.it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sun, 17 Apr 2022 20:31:20 -0400</lastBuildDate><atom:link href="https://etsploit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 20:31:20 -0400</lastBuildDate><atom:link href="https://etsplo.it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>repository</title>
-      <link>https://etsploit.github.io/tags/repository/</link>
+      <link>https://etsplo.it/tags/repository/</link>
       <pubDate>Sun, 17 Apr 2022 20:31:20 -0400</pubDate>
       
-      <guid>https://etsploit.github.io/tags/repository/</guid>
+      <guid>https://etsplo.it/tags/repository/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://etsploit.github.io/tags/test/</link>
+      <link>https://etsplo.it/tags/test/</link>
       <pubDate>Sun, 17 Apr 2022 20:31:20 -0400</pubDate>
       
-      <guid>https://etsploit.github.io/tags/test/</guid>
+      <guid>https://etsplo.it/tags/test/</guid>
       <description></description>
     </item>
     
