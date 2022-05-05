@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on etsplo.it</title>
-    <link>https://etsplo.it/posts/</link>
-    <description>Recent content in Posts on etsplo.it</description>
+    <title>CyberSec on etsplo.it</title>
+    <link>https://etsplo.it/categories/cybersec/</link>
+    <description>Recent content in CyberSec on etsplo.it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Thu, 05 May 2022 10:40:32 -0400</lastBuildDate><atom:link href="https://etsplo.it/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 10:40:32 -0400</lastBuildDate><atom:link href="https://etsplo.it/categories/cybersec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a Nessus Vulnerability Management Lab</title>
       <link>https://etsplo.it/posts/nessus-vulnerability-management-lab/</link>
